@@ -4,40 +4,40 @@ We developed WealthPulse Autopilot to address the challenge of fragmented wealth
 
 **Technologies Used**
 
--Frontend: React.js, Tailwind CSS
+- Frontend: React.js, Tailwind CSS
 
--Data Visualization: Recharts, Lucide Icons
+- Data Visualization: Recharts, Lucide Icons
 
--State Management: React Context API
+- State Management: React Context API
 
--Styling: Utility-first CSS for responsive design
+- Styling: Utility-first CSS for responsive design
 
--AI Integration: OpenAI API for personalized financial insights
+- AI Integration: OpenAI API for personalized financial insights
 
 
 **Core Features**
 
 
-1.Unified Wealth Wallet: Consolidates bank accounts, CPF, and digital assets into one secure view.
+1. Unified Wealth Wallet: Consolidates bank accounts, CPF, and digital assets into one secure view.
 
 
-2.Wellness Analytics: Real-time scoring of financial health and risk indicators.
+2. Wellness Analytics: Real-time scoring of financial health and risk indicators.
 
 
-3.Proactive Recommendations: Data-driven insights for liquidity and asset allocation.
+3. Proactive Recommendations: Data-driven insights for liquidity and asset allocation.
 
 
-4.Adviser Dashboard: Intuitive interface for proactive client engagement and portfolio oversight.
+4.  Adviser Dashboard: Intuitive interface for proactive client engagement and portfolio oversight.
 
 **Setup and Installation**
 
-1.Ensure you have Node.js installed on your system.
+1. Ensure you have Node.js installed on your system.
 
-2.Clone this repository to your local directory.
+2. Clone this repository to your local directory.
 
-3.Run npm install to install all necessary dependencies and libraries.
+3. Run npm install to install all necessary dependencies and libraries.
 
-4.Run npm start to launch the application in your local development environment.
+4. Run npm start to launch the application in your local development environment.
 
 **Usage & Interaction**
 
