@@ -19,8 +19,14 @@ We developed WealthPulse Autopilot to address the challenge of fragmented wealth
 
 
 1.Unified Wealth Wallet: Consolidates bank accounts, CPF, and digital assets into one secure view.
+
+
 2.Wellness Analytics: Real-time scoring of financial health and risk indicators.
+
+
 3.Proactive Recommendations: Data-driven insights for liquidity and asset allocation.
+
+
 4.Adviser Dashboard: Intuitive interface for proactive client engagement and portfolio oversight.
 
 **Setup and Installation**
