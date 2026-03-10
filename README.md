@@ -1,3 +1,5 @@
 # Fintech-innovators-hackathon
-Hackathon website. 
+**Project title:** FinTwin 
+**Team Name:** Fin Techies
+**Project description: **
 We developed WealthPulse Autopilot to address the challenge of fragmented wealth management. Most investors in Singapore manage assets across a disconnected ecosystem of bank accounts, CPF, brokerages, and digital wallets, which obscures their true financial health.Our solution unifies these assets into a single Wealth Wallet using integrations like SGFinDex and Web3 APIs. Rather than being a static dashboard, WealthPulse calculates a real-time Wellness Score based on five critical dimensions: Diversification, Liquidity, Debt, Income, and Behavioral Resilience.The Autopilot agent proactively identifies opportunities such as idle cash, rebalancing needs, or high fee drag and prepares specific actions for the user to approve with one tap. We also integrated Behavioral Circuit Breakers designed to intervene during market volatility, helping users avoid emotional traps like panic selling. For Schroders advisers, the platform flags clients who need attention today, transforming wealth management from a reactive task into a proactive partnership. We built this to ensure that every financial decision is data-driven, timely, and behaviorally sound
