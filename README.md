@@ -30,6 +30,7 @@ We developed WealthPulse Autopilot to address the challenge of fragmented wealth
 4.Adviser Dashboard: Intuitive interface for proactive client engagement and portfolio oversight.
 
 **Setup and Installation**
+
 1.Ensure you have Node.js installed on your system.
 
 2.Clone this repository to your local directory.
